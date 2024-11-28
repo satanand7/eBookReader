@@ -3,3 +3,8 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+.demo-book{
+    background-image: url("https://nodlik.github.io/react-pageflip/images/background.jpg");
+}
